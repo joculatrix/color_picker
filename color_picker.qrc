@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/material-eyedrop.svg</file>
+    </qresource>
+</RCC>
